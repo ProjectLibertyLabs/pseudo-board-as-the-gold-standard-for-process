@@ -1,6 +1,18 @@
 # 🚀 Pseudo-Board: Your Gold Standard for Bliss! 🚀
 
 🚨 **Disclaimer**: Aimed to be the zenith of standards, this is your canvas to paint, modify, and personalize to match the vibrant palette of your team's dynamics! 🚨
+## Quick Navigation
+- [🎩 The Epic Adventure: Blockchain Wallet Development](#-the-epic-adventure-blockchain-wallet-development-)
+- [🌟 User Stories: The Canvas of Dreams](#-user-stories-the-canvas-of-dreams-)
+- [🔨 Implementation Tasks: The Forge of Victory](#-implementation-tasks-the-forge-of-victory-)
+- [🏆 Milestones: Odes to Our Odyssey](#-milestones-odes-to-our-odyssey-)
+- [📋 Boards Extravaganza!](#-boards-extravaganza-)
+  - [🚀 Backlog Board: Your Treasure Map](#-backlog-board-your-treasure-map-)
+  - [🌟 Team Capacity Board: The Command Center](#-team-capacity-board-the-command-center-)
+  - [💫 Current Sprint / Iteration: The Pulse](#-current-sprint--iteration-the-pulse-)
+  - [🕰 Sprint / Iteration Settings: The Timekeepers](#-sprint--iteration-settings-the-timekeepers-)
+  - [🌈 Roadmap View: The Grand Vision](#-roadmap-view-the-grand-vision-)
+
 
 As we bid adieu to Pivotal Tracker and embrace the unified toolkit era, get ready for an adventure in GH projects land. Your guide on this epic journey? Patrick, the wizard of boards, at your service! 🧙‍♂️
 
