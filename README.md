@@ -12,7 +12,8 @@ Embark on this electrifying quest with us, as we unveil an Epic as daring and au
 
 Set off on the adventure here: [Epic Link](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/issues/1)
 
-![Epic Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/5a26e4d3-ecdc-4526-a3c1-0309f6085bd4)
+![Epic Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/e67fa77a-c802-4914-a494-95817dcb8a81)
+
 
 ## 🌟 User Stories: The Canvas of Dreams 🌟
 
@@ -20,7 +21,8 @@ Every user story tied to our Epic is penned with care, outlining the quests that
 
 Discover the legends here: [User Stories Link](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/issues/2)
 
-![User Stories Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/9d091c82-6f91-4af1-abe9-983086cc51f9)
+![User Stories Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/20899b08-bab4-482f-b524-22ebe64cf9cb)
+
 
 ## 🔨 Implementation Tasks: The Forge of Victory 🔨
 
@@ -28,7 +30,8 @@ Within each user story beats the pulse of action — Implementation tasks. These
 
 Dive into the action here: [Implementation Tasks Link](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/issues/6)
 
-![Implementation Tasks Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/b0afc1e2-cd0a-45be-b514-458527e4e0c4)
+![Implementation Tasks Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/dad6ac46-f21c-4945-bcbe-58ebcbe5fe01)
+
 
 ## 🏆 Milestones: Odes to Our Odyssey 🏆
 
@@ -36,7 +39,8 @@ Milestones offer a panoramic view of our epic odyssey. They're not mere checkpoi
 
 Join the festivity of progress: [Milestones Link](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/milestones?direction=asc&sort=due_date&state=open)
 
-![Milestones Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/286477bc-fdfe-4e92-a35f-e9406f1a192f)
+![Milestones Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/c4ae93a9-2555-4de3-864b-1c5b038b7adf)
+![Milestones Detailed Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/52887917-bd2f-498f-b20a-507f354de9b9)
 
 
 ## 📋 Boards Extravaganza! 📋
@@ -44,17 +48,22 @@ Join the festivity of progress: [Milestones Link](https://github.com/AmplicaLabs
 ### 🚀 Backlog Board: Your Treasure Map 🚀
 Ahoy, navigators of the sprint sea! Welcome to the Backlog Board, your very own treasure map. Here, the X marks the spot for prioritizing the quests ahead, making it a cornerstone for sprint planning or grooming sessions. Dive into this trove of tasks and stories, where the potential for adventure (and work) knows no bounds. It's the perfect place to strategize, prioritize, and mobilize your team towards greatness!
 - Check out the map here: [Backlog Board](https://github.com/orgs/AmplicaLabs/projects/11/views/1)
-![Backlog Board Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/47da4612-1124-4759-8b26-92685ac3644e)
+![Backlog Board Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/b7f31608-f558-4fef-abb5-a43e584ad654)
+
 
 ### 🌟 Team Capacity Board: The Command Center 🌟
 Welcome to the Command Center, aka the Team Capacity Board. This board is supercharged with insights for managers or anyone eager to gauge the volume of quests assigned or track the progress of our valiant team members. It's the crystal ball that reveals the workload and status of each team player, ensuring that everyone is sailing smoothly and not into the stormy seas of overcommitment.
 - Take command here: [Team Capacity Board](https://github.com/orgs/AmplicaLabs/projects/11/views/2)
-![Team Capacity Board Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/b2211a90-31be-4fe1-be5a-94dd98fc9a5f)
+
+![Team Capacity Board Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/07da3a8b-f043-4fec-a1dd-4d435396a1f3)
+
 
 ### 💫 Current Sprint / Iteration: The Pulse 💫
 Step into the heartbeat of our current adventure, the Current Sprint / Iteration Board. This microcosm of our journey is where the daily magic happens. Perfect for standups, pairing sessions, or retros, this board's swim lanes of todo, in progress, blocked, and done are the tracks on which our productivity train runs. It's the living, breathing story of our sprint, captured in real-time.
 - Feel the pulse here: [Current Sprint / Iteration Board](https://github.com/orgs/AmplicaLabs/projects/11/views/3)
-![Current Sprint / Iteration Board Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/13aed2d0-8f2b-4d6a-9ef5-707a82d76f4f)
+
+![Current Sprint / Iteration Board Screenshot](https://github.com/AmplicaLabs/pseudo-board-as-the-gold-standard-for-process/assets/444888/7d002eef-fc36-4473-9e76-350f4eead216)
+
 
 #### 🕰 Sprint / Iteration Settings: The Timekeepers 🕰
 Every sprint or iteration is a sacred timebox, a realm where a selected group of tasks and stories reside. Here, you can wield the power to set your sprint/iteration timelines, create future chapters for planning, or adjust the sands of time as needed. It's where the rhythm of our work is orchestrated, ensuring every beat aligns with our epic saga.
